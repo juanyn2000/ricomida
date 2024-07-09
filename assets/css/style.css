@@ -1,0 +1,44 @@
+body * {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+* {
+  font-family: "cabin", sans-serif;
+}
+
+.titleVar {
+  font: 37pt Lobster;
+}
+.card-title {
+  width: 100%;
+  max-width: 10em;
+}
+.conten {
+  background-color: #dc3545;
+  color: white;
+  text-align: center;
+  padding: 60px 60px;
+}
+.Ricomida {
+  font: 17pt Lobster;
+  color: white;
+}
+footer {
+  background-color: #373a3c;
+  text-align: center;
+  padding: 30px 50px;
+  font: 37pt Lobster;
+  color: white;
+}
+.titleReceta {
+  width: 100%;
+  max-width: 8em;
+  padding-bottom: 10px;
+}
+#carouselExampleIndicators .carousel-indicators .boton {
+  border-radius: 100%;
+  height: 15px;
+  width: 15px;
+}
+
